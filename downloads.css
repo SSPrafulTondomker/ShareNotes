@@ -1,0 +1,22 @@
+#Authors:hover
+{
+	color:yellow;
+}
+#Authors
+{
+	font-size: 25px;
+	font-style: italic;
+}
+#Novels
+{
+	background-color: yellow;
+}
+#Engineering
+{
+	background-color: black;
+	color: yellow;
+}
+#IIT-JEE
+{
+	background-color: yellow;
+}
